@@ -1,0 +1,19 @@
+{
+  "name": "student-result-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatin2062000/Student-result-CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatin2062000/Student-result-CRUD/issues"
+  },
+  "homepage": "https://github.com/jatin2062000/Student-result-CRUD#readme"
+}
